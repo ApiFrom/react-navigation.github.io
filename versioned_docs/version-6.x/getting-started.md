@@ -3,7 +3,6 @@ id: getting-started
 title: Getting started
 sidebar_label: Getting started
 ---
-
 What follows within the _Fundamentals_ section of this documentation is a tour of the most important aspects of React Navigation. It should cover enough for you to know how to build your typical small mobile application, and give you the background that you need to dive deeper into the more advanced parts of React Navigation.
 
 ## Pre-requisites
